@@ -1,0 +1,6 @@
+total 0
+-rwxrwxrwx 1 octavio octavio 0 Nov 12 15:44 archivo1
+-rwxrwxrwx 1 octavio octavio 0 Nov 12 15:44 archivo2
+-rwxrwxrwx 1 octavio octavio 0 Nov 12 15:44 archivo3
+-rwxrwxrwx 1 octavio octavio 0 Nov 12 15:44 archivo4
+-rwxrwxrwx 1 octavio octavio 0 Nov 12 15:44 archivo5
