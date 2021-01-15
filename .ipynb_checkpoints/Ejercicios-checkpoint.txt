@@ -1,0 +1,53 @@
+ 
+a) Crea la siguiente estructura de directorios 
+
+respaldo_sistema 
+    |-- configuracion 
+    |   |-- X11 
+    |   `-- gnome 
+    |-- programas 
+    |-- reinstalacion 
+    `-- usuarios 
+        `-- python 
+            `-- scripts
+
+b) Dentro de del directorio reinstalacion/ (del inciso anterior) crea los siguientes archivos:  guia, notas, secuencia.data, paquetes.pkg e imagen.iso
+
+
+3. Copia al directorio programas la totalidad de los archivos y directorios contenidos en el directorio /bin del sistema. 
+
+4. Copia al directorio configuracion/X11 todos los archivos y directorios contenidos en el directorio /etc/X11/
+
+5. 
+a) Crea con un solo comando un archivo llamado "hola.txt" con el contenido “Hola”.
+b) Crea un archivo llamado "hola2.txt" que contenga el contenido de "hola.txt" y la frase "de nuevo".
+
+6. Crea un archivo llamado PEGADO.txt que contenga las primeras 37 lineas del archivo .bashrc y las ultimas 23 lineas del archivo .bash_history
+
+7. 
+a) Crea un archivo linux.etc  que contenga las rutas de todos los archivos del directorio /etc/ (incluyendo sus subdirectorios) que en su interior contienen la palabra “daemon”. 
+b) Agrega a ese archivo las rutas de los archivos del directorio /etc/ cuya extensión sea “.conf” y que en su interior contengan la palabra “linux”.
+c) Crea un archivo llamado MiUsuario.usr que contenga la información de tu usuario filtrada del archivo /etc/passwd.
+
+
+8. 
+a) Encuentra todos los archivos que cuenten con todos los permisos para todos los usuarios en el directorio /usr y escribelos en archivo llamado todos.prm
+b) Encuentra todos los archivos que tengan la extensión “.tar” en el directorio /var y escribelos en archivo llamado all.compress
+
+
+9. Crea un archivo llamado MisProcesos.prs que contenga todos los procesos de tu usuario activos en tu equipo, junto con sus características.
+
+
+10. Cambia los permisos de los siguientes archivos.
+
+a) hola2.txt  De lectura, escritura y ejecución para el dueño, de lectura y ejecución para el grupo y para otros.
+b) PEGADO.txt Solo de lectura, para el dueño, el grupo y para otros.
+c) linux.etc Todos los permisos para el dueño, y solo de ejecución para el grupo y para otros.
+d) MisProcesos.prs  Todos los permisos para el dueño, solo de lectura para el grupo y sin permisos para otros.
+
+
+11. 
+a) Empaqueta todo tu directorio (TuNombre) en una archivo llamado Parcial_TuNombre.tar
+b) Ahora comprime ese archivo usando un nivel de compresión 9.
+c) Borra el directorio TuNombre.
+
