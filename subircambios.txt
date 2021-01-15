@@ -1,0 +1,10 @@
+# SUBIR CAMBIOS AL REPOSITORIO DE GITHUB
+
+git add -A
+
+git status
+
+git commit -m "actualizacion"
+
+git push
+
