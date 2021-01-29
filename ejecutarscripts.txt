@@ -1,0 +1,10 @@
+# EJECUTAR SCRIPT
+
+# EN EL SÍMBOLO DEL SISTEMA:
+
+# Instalar pip mediante: pip -V
+
+# Instalar las bilbiotecas necesarias mediante: pip intall "biblioteca" o python -m pip install "biblioteca"
+
+# COMANDO PARA EJECUTAR EN: TERMINAL DEL JUPYTER LAB Y POWESHELL PROMT (ANACONDA)
+----> py -3 "nombre_script_py"
